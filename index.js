@@ -15,5 +15,6 @@ function scuberGreetingForFeet(ride) {
 }
 
 function ternaryCheckCity(city) {
-  city === "NYC"
+    return (city === "NYC" ? "$2.00" : "$10.00");
+
 }
