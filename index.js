@@ -1,11 +1,12 @@
 // Write your code in this file!
 
 function scuberGreetingForFeet(ride) {
+  let response
   if (ride < 400) {
-    'This one is on me!'
+    response = 'This one is on me!'
   }
   elsif (ride > 2000) {
-    'I will gladly take your thirty bucks.'
+    response = 'I will gladly take your thirty bucks.'
   }
   
 }
