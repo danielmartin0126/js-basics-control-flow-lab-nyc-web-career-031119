@@ -13,3 +13,7 @@ function scuberGreetingForFeet(ride) {
   }
   return response
 }
+
+function ternaryCheckCity(city) {
+  
+}
