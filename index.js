@@ -23,7 +23,7 @@ function switchOnCharmFromTip(tip) {
   let response
   switch(tip) {
   case "generous":
-    response = ""
+    response = "Thank you so much"
     break;
   case "not as generous:
     // code block
