@@ -12,5 +12,4 @@ function scuberGreetingForFeet(ride) {
     response = 'I will gladly take your thirty bucks.'
   }
   return response
-
 }
