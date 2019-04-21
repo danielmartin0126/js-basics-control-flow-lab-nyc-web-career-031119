@@ -12,5 +12,5 @@ function scuberGreetingForFeet(ride) {
     response ='No can do.'
   }
   return response
-  
+ 
 }
